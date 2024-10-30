@@ -1,0 +1,305 @@
+# This file is put in the public domain.
+# Jafar, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Mail Dashboard Widget Wordpress plugin\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mini-mail-dashboard-widget\n"
+"POT-Creation-Date: 2009-09-28 10:55+0000\n"
+"PO-Revision-Date: 2011-11-17 10:43+0100\n"
+"Last-Translator: Marcel Bokhorst\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"Language-Team: \n"
+
+msgid "Mini Mail"
+msgstr ""
+
+msgid "Resources"
+msgstr "منابع"
+
+msgid "Usage instructions"
+msgstr "دستورالعمل های استفاده"
+
+msgid "Frequently asked questions"
+msgstr "سوالات متداول"
+
+msgid "Support page"
+msgstr "صفحه حمايت كننده"
+
+msgid "About the author"
+msgstr "درباره نویسنده"
+
+msgid "Settings updated"
+msgstr "تنظيمات به روز شده"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "Time format:"
+msgstr "فرمت زمان"
+
+msgid "Details"
+msgstr "جزئیات"
+
+msgid "Max. cache age:"
+msgstr "حداكثر حافظه پنهاني"
+
+msgid "Minutes"
+msgstr "دقيقه"
+
+msgid "Mail check interval:"
+msgstr "بازه چك كردن پست الكترونيك:"
+
+msgid "HTTP time-out:"
+msgstr "زمان خروج:"
+
+msgid "Seconds"
+msgstr "ثانيه"
+
+msgid "Max. SMS length:"
+msgstr "حداكثر طول پيامك"
+
+msgid "Characters"
+msgstr "كاركتر"
+
+msgid "WordPress address book:"
+msgstr "دفترچه آدرس وردپرس"
+
+msgid "Debug:"
+msgstr "اطلاعات ديباگ"
+
+msgid "Clean on deactivate:"
+msgstr "`پاك كردن بي اثر ها"
+
+msgid "Mail"
+msgstr "پست الكترونيك"
+
+msgid "Your name:"
+msgstr "نام شما:"
+
+msgid "Your e-mail:"
+msgstr ":آدرس پست الكترونيك شما"
+
+msgid "Receive method:"
+msgstr "روش دريافت:"
+
+msgid "Off"
+msgstr "خاموش"
+
+msgid "Send method:"
+msgstr "روش ارسال:"
+
+msgid "Address book:"
+msgstr "دفترچه آدرس:"
+
+msgid "POP3"
+msgstr "POP3"
+
+msgid "Host:"
+msgstr "هاست"
+
+msgid "Frequenty used"
+msgstr "استفاده مي شود"
+
+msgid "Secure transfer:"
+msgstr "انتقال امن:"
+
+msgid "Port:"
+msgstr "پورت:"
+
+msgid "User name:"
+msgstr "نام كاربري:"
+
+msgid "Password:"
+msgstr "رمز عبور:"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Folder:"
+msgstr "پوشه"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Authentication:"
+msgstr "تاييد:"
+
+msgid "SMS"
+msgstr "پيامك"
+
+msgid "Use VoipBuster or one of its clones"
+msgstr "استفاده از اين گزينه ممكن است كا را كند كند"
+
+msgid "Enable:"
+msgstr "فعال بودن"
+
+msgid "Notifications:"
+msgstr "آگاه سازي"
+
+msgid "Separator:"
+msgstr "جدا كننده"
+
+msgid "Between from/subject/text; default is space"
+msgstr "از بین / عنوان / متن "
+
+msgid "Shorten from:"
+msgstr "كوتاه تر از:"
+
+msgid "-1 is off; empty is maximum"
+msgstr "1- خاموش است ؛ حداكثر خالي است"
+
+msgid "Shorten subject:"
+msgstr ":عنوان كوتاه"
+
+msgid "Shorten text:"
+msgstr "متن كوتاه:"
+
+msgid "From number:"
+msgstr "از شماره:"
+
+msgid "Notifications to:"
+msgstr "آگاه سازي به:"
+
+msgid "Url:"
+msgstr "آدرس:"
+
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+msgid "Max. SMS/day:"
+msgstr "حداکثر پیام کوتاه / روز :"
+
+msgid "0 is unlimited"
+msgstr "0 به معني نا محدود است"
+
+msgid "Phone book:"
+msgstr "دفتر تلفن:"
+
+msgid "Schedule:"
+msgstr "برنامه زمان بندي:"
+
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "اين يك امكان مكانيكي است"
+
+msgid "All passwords are stored and sent in plain text"
+msgstr "تمامي رمز ها و متن ها ذخيره مي شود"
+
+msgid "Save"
+msgstr "ذخيره"
+
+msgid "Check"
+msgstr "بازبيني"
+
+msgid "Compose"
+msgstr "نوشتن"
+
+msgid "Announce"
+msgstr "اطلاعيه"
+
+msgid "Log"
+msgstr "ورود به سيستم"
+
+msgid "Clear"
+msgstr "پاك كردن"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Donate"
+msgstr "كمك"
+
+msgid "Date:"
+msgstr "تاريخ:"
+
+msgid "From:"
+msgstr "از:"
+
+msgid "Subject:"
+msgstr "موضوع:"
+
+msgid "Attachments:"
+msgstr "فايل هاي ضميمه:"
+
+msgid "Reply"
+msgstr "پاسخ"
+
+msgid "Forward"
+msgstr "انتقال"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "To:"
+msgstr "به:"
+
+msgid "CC:"
+msgstr "رونوشت:"
+
+msgid "Phone:"
+msgstr "تلفن"
+
+msgid "Send"
+msgstr "ارسال"
+
+msgid "Cancel"
+msgstr "انصراف"
+
+msgid "Are you sure to delete this message?"
+msgstr "براي پاك شدن اين پيام مطمئن هستيد؟"
+
+msgid "Are you sure to clear the log?"
+msgstr "آيا مطمئن هستيد؟"
+
+msgid "Re: "
+msgstr "پاسخ"
+
+msgid "Fwd: "
+msgstr "انتقال"
+
+msgid "On"
+msgstr "روی"
+
+msgid "wrote:"
+msgstr "نوشت :"
+
+msgid "Select"
+msgstr "انتخاب"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "From"
+msgstr "از"
+
+msgid "Subject"
+msgstr "موضوع"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "Gone"
+msgstr "رفته"
+
+msgid "E-mail address missing"
+msgstr "آدرس پست الكترونيكي شما گم شده"
+
+msgid "Sent to"
+msgstr "ارسال به"
+
+msgid "Phone number missing"
+msgstr "شماره تلفن گم شده"
+
+msgid "OK"
+msgstr "تاييد"
+
+msgid "Not configured"
+msgstr "تنظيم نشده"
+

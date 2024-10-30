@@ -1,0 +1,535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Mail Dashboard Widget v1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mini-mail-dashboard-widget\n"
+"POT-Creation-Date: 2009-08-28 14:48+0000\n"
+"PO-Revision-Date: 2012-03-10 09:02+0100\n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: Web Geeks\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yes\n"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:241
+#: wp-mini-mail-class.php:248
+#: wp-mini-mail-class.php:249
+#: wp-mini-mail-class.php:286
+#: wp-mini-mail-class.php:1320
+msgid "Mini Mail"
+msgstr "Mini Mail"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:258
+msgid "Resources"
+msgstr "Resurse"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:260
+msgid "Usage instructions"
+msgstr "Instrucțiunile de utilizare"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:261
+msgid "Frequently asked questions"
+msgstr "Întrebări frecvente"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:262
+msgid "Support page"
+msgstr "Pagina de suport"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:263
+msgid "About the author"
+msgstr "Despre autor"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:357
+#: wp-mini-mail-class.php:360
+msgid "Settings updated"
+msgstr "Setări actualizate"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:366
+msgid "General"
+msgstr "Generale"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:370
+msgid "Time format:"
+msgstr "Format oră:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:373
+#: wp-mini-mail-class.php:714
+msgid "Details"
+msgstr "Detalii"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:377
+msgid "Max. cache age:"
+msgstr "Max. cache-ul de vârstă:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:381
+#: wp-mini-mail-class.php:388
+msgid "Minutes"
+msgstr "Minute"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:385
+msgid "Mail check interval:"
+msgstr "Interval de verificare mail:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:392
+msgid "HTTP time-out:"
+msgstr "Amânare HTTP:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:395
+msgid "Seconds"
+msgstr "Secunde"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:399
+msgid "Max. SMS length:"
+msgstr "Max. Lungimea SMS:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:402
+msgid "Characters"
+msgstr "Caractere"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:406
+msgid "WordPress address book:"
+msgstr "WordPress agendă:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:412
+msgid "Debug:"
+msgstr "Depanare:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:418
+msgid "Clean on deactivate:"
+msgstr "Dezactiva curat pe:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:427
+msgid "Mail"
+msgstr "Mail"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:431
+msgid "Your name:"
+msgstr "numele tău:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:437
+msgid "Your e-mail:"
+msgstr "Poşta electronică:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:443
+msgid "Receive method:"
+msgstr "Primi metoda:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:447
+#: wp-mini-mail-class.php:458
+msgid "Off"
+msgstr "Off"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:454
+msgid "Send method:"
+msgstr "Trimite metoda:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:465
+msgid "Address book:"
+msgstr "Address book:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:473
+msgid "POP3"
+msgstr "POP3"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:477
+#: wp-mini-mail-class.php:518
+#: wp-mini-mail-class.php:564
+msgid "Host:"
+msgstr "Gazdă:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:480
+#: wp-mini-mail-class.php:567
+msgid "Frequenty used"
+msgstr "Frequenty utilizate"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:484
+#: wp-mini-mail-class.php:524
+#: wp-mini-mail-class.php:571
+msgid "Secure transfer:"
+msgstr "Transferul sigur:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:495
+#: wp-mini-mail-class.php:535
+#: wp-mini-mail-class.php:582
+msgid "Port:"
+msgstr "Port:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:501
+#: wp-mini-mail-class.php:541
+#: wp-mini-mail-class.php:600
+#: wp-mini-mail-class.php:661
+msgid "User name:"
+msgstr "Numele de utilizator:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:507
+#: wp-mini-mail-class.php:547
+#: wp-mini-mail-class.php:606
+#: wp-mini-mail-class.php:667
+msgid "Password:"
+msgstr "Parola:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:514
+msgid "IMAP"
+msgstr "IMAP"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:553
+msgid "Folder:"
+msgstr "Folderul:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:560
+msgid "SMTP"
+msgstr "SMTP"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:588
+msgid "Authentication:"
+msgstr "Autentificare:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:613
+#: wp-mini-mail-class.php:777
+msgid "SMS"
+msgstr "SMS"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:616
+msgid "Use VoipBuster or one of its clones"
+msgstr "Utilizaţi VoipBuster sau unul de său clone"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:621
+msgid "Enable:"
+msgstr "Permite:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:627
+msgid "Notifications:"
+msgstr "Notificările:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:633
+msgid "Separator:"
+msgstr "Separator:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:636
+msgid "Between from/subject/text; default is space"
+msgstr "Între din / / textul subiect; implicit este spaţiu"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:640
+msgid "Shorten from:"
+msgstr "Scurta din:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:643
+#: wp-mini-mail-class.php:650
+#: wp-mini-mail-class.php:657
+msgid "-1 is off; empty is maximum"
+msgstr "-1 este off; gol este maximă"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:647
+msgid "Shorten subject:"
+msgstr "Scurtaţi obiectul:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:654
+msgid "Shorten text:"
+msgstr "Scurtaţi textul:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:673
+msgid "From number:"
+msgstr "La numărul:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:679
+msgid "Notifications to:"
+msgstr "Notificările:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:685
+msgid "Url:"
+msgstr "URL:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:688
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:692
+msgid "Max. SMS/day:"
+msgstr "Max. SMS/zi:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:695
+msgid "0 is unlimited"
+msgstr "0 este nelimitat"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:699
+msgid "Phone book:"
+msgstr "Cartea de telefon:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:708
+msgid "Schedule:"
+msgstr "Program:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:713
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "Funcţionează ca un comutator de timp mecanice; linii incepand cu + comută pe, cu - off."
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:719
+msgid "All passwords are stored and sent in plain text"
+msgstr "Toate parolele sunt stocate şi trimis în text simplu"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:722
+msgid "Save"
+msgstr "Salvare"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:770
+msgid "Check"
+msgstr "Selectare"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:773
+msgid "Compose"
+msgstr "Compune"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:774
+msgid "Announce"
+msgstr "Anunta"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:779
+msgid "Log"
+msgstr "Jurnal"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:780
+msgid "Clear"
+msgstr "Clar"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:782
+msgid "Cron"
+msgstr "Cron"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:784
+msgid "Donate"
+msgstr "Dona"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:789
+#: wp-mini-mail-class.php:955
+#: wp-mini-mail-class.php:1169
+msgid "Date:"
+msgstr "Data:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:791
+#: wp-mini-mail-class.php:956
+#: wp-mini-mail-class.php:1166
+msgid "From:"
+msgstr "De la:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:793
+#: wp-mini-mail-class.php:826
+#: wp-mini-mail-class.php:957
+#: wp-mini-mail-class.php:1167
+msgid "Subject:"
+msgstr "Subiect:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:795
+msgid "Attachments:"
+msgstr "Ataşări:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:801
+msgid "Reply"
+msgstr "Răspuns"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:802
+msgid "Forward"
+msgstr "Atacant"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:804
+msgid "HTML"
+msgstr "HTML"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:805
+#: wp-mini-mail-class.php:846
+msgid "Close"
+msgstr "Închide"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:812
+#: wp-mini-mail-class.php:1168
+msgid "To:"
+msgstr "De la:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:819
+msgid "CC:"
+msgstr "CC:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:828
+msgid "Phone:"
+msgstr "Telefon:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:837
+msgid "Send"
+msgstr "Trimite"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:838
+msgid "Cancel"
+msgstr "Revocare"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:954
+msgid "Are you sure to delete this message?"
+msgstr "Sigur ştergeţi acest mesaj?"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1114
+msgid "Are you sure to clear the log?"
+msgstr "Sigur să goliţi jurnalul?"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1155
+msgid "Re: "
+msgstr "Re: "
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1158
+msgid "Fwd: "
+msgstr "Fwd: "
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1164
+msgid "On"
+msgstr "Pe"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1165
+msgid "wrote:"
+msgstr "a scris:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1304
+msgid "Select"
+msgstr "Selectaţi"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1559
+msgid "Date"
+msgstr "Data"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1560
+msgid "From"
+msgstr "La"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1561
+msgid "Subject"
+msgstr "Subiect"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1618
+#: wp-mini-mail-class.php:1741
+#: wp-mini-mail-class.php:1774
+msgid "n/a"
+msgstr "n/a"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1620
+#: wp-mini-mail-class.php:1682
+#: wp-mini-mail-class.php:1743
+#: wp-mini-mail-class.php:1778
+msgid "Gone"
+msgstr "Plecat"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1644
+msgid "E-mail address missing"
+msgstr "Poştă electronică adresă lipsă"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1649
+#: wp-mini-mail-class.php:1668
+msgid "Sent to"
+msgstr "Trimis"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1664
+msgid "Phone number missing"
+msgstr "Lipsă număr telefon"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1682
+msgid "OK"
+msgstr "ok"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:2119
+msgid "Not configured"
+msgstr "Neconfigurat"
+

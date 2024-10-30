@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Mail Dashboard Widget in italiano\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mini-mail-dashboard-widget\n"
+"POT-Creation-Date: 2009-08-28 14:48+0000\n"
+"PO-Revision-Date: 2011-11-17 10:42+0100\n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: Gianni Diurno | gidibao.net & charmingpress.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Mini Mail"
+msgstr "Mini Mail"
+
+msgid "Resources"
+msgstr "Risorse"
+
+msgid "Usage instructions"
+msgstr "Istruzioni per l'uso"
+
+msgid "Frequently asked questions"
+msgstr "Frequently Asked Questions"
+
+msgid "Support page"
+msgstr "Pagina supporto"
+
+msgid "About the author"
+msgstr "Info autore"
+
+msgid "Settings updated"
+msgstr "Le impostazioni sono state aggiornate"
+
+msgid "General"
+msgstr "Generale"
+
+msgid "Time format:"
+msgstr "Formato ora:"
+
+msgid "Details"
+msgstr "dettagli"
+
+msgid "Max. cache age:"
+msgstr "Durata max. cache:"
+
+msgid "Minutes"
+msgstr "minuti"
+
+msgid "Display max.:"
+msgstr "Mostra al massimo:"
+
+msgid "Messages"
+msgstr "messaggi"
+
+msgid "Mail check interval:"
+msgstr "Intervallo verifica email:"
+
+msgid "WordPress address book:"
+msgstr "Agenda WordPress:"
+
+msgid "HTTP time-out:"
+msgstr "HTTP time-out:"
+
+msgid "Seconds"
+msgstr "secondi"
+
+msgid "Max. SMS length:"
+msgstr "Lunghezza max. SMS:"
+
+msgid "Required capability:"
+msgstr "Permesso necessario:"
+
+msgid "Debug:"
+msgstr "Debug:"
+
+msgid "Clean on deactivate:"
+msgstr "Svuota alla disattivazione:"
+
+msgid "I have donated to this plugin:"
+msgstr "Ho già donato per questo plugin:"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "Your name:"
+msgstr "Il tuo nome:"
+
+msgid "Your e-mail:"
+msgstr "La tua email:"
+
+msgid "Receive method:"
+msgstr "Metodo ricezione:"
+
+msgid "Off"
+msgstr "Off"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Send method:"
+msgstr "Metodo invio:"
+
+msgid "Address book:"
+msgstr "Agenda:"
+
+msgid "POP3"
+msgstr "POP3"
+
+msgid "Host:"
+msgstr "Host:"
+
+msgid "Frequenty used"
+msgstr "Frequenza uso"
+
+msgid "Secure transfer:"
+msgstr "Sicurezza trasferimento:"
+
+msgid "Port:"
+msgstr "Porta:"
+
+msgid "User name:"
+msgstr "Nome utente:"
+
+msgid "Password:"
+msgstr "Password:"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Folder:"
+msgstr "Cartella:"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Authentication:"
+msgstr "Autentificazione:"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Use VoipBuster or one of its clones"
+msgstr "Usa VoipBuster o uno dei suoi cloni"
+
+msgid "Enable:"
+msgstr "Attiva:"
+
+msgid "Notifications:"
+msgstr "Notifiche:"
+
+msgid "Separator:"
+msgstr "Separatore:"
+
+msgid "Between from/subject/text; default is space"
+msgstr "tra da/oggetto/testo; predefinito a spazio"
+
+msgid "Shorten from:"
+msgstr "Mittente breve:"
+
+msgid "Shorten subject:"
+msgstr "Oggetto breve:"
+
+msgid "Shorten text:"
+msgstr "Testo breve:"
+
+msgid "-1 is off; empty is maximum"
+msgstr "-1 non attivo; vuoto per il massimo "
+
+msgid "From number:"
+msgstr "Dal numero:"
+
+msgid "Notifications to:"
+msgstr "Notifiche a:"
+
+msgid "Max. SMS/day:"
+msgstr "Max. SMS/giorno:"
+
+msgid "0 is unlimited"
+msgstr "0 è illimitato"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+msgid "Phone book:"
+msgstr "Agenda telefono:"
+
+msgid "Schedule:"
+msgstr "Programmazione:"
+
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "Funziona come un timer meccanico; le righe iniziano con + per commutazione attiva, - off per non attiva."
+
+msgid "All passwords are stored and sent in plain text"
+msgstr "Tutte le password sono custodite ed inviate senza formattazione"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Check"
+msgstr "Verifica"
+
+msgid "Compose"
+msgstr "Componi"
+
+msgid "Announce"
+msgstr "Annuncia"
+
+msgid "Log"
+msgstr "Registro"
+
+msgid "Clear"
+msgstr "Svuota"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Donate"
+msgstr "Donazione"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "From:"
+msgstr "Da:"
+
+msgid "Subject:"
+msgstr "Oggetto:"
+
+msgid "Attachments:"
+msgstr "Allegati:"
+
+msgid "Reply"
+msgstr "Rispondi"
+
+msgid "Forward"
+msgstr "Inoltra"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "To:"
+msgstr "A:"
+
+msgid "Select"
+msgstr "Seleziona"
+
+msgid "Phone:"
+msgstr "Telefono:"
+
+msgid "Send"
+msgstr "Invia"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Are you sure to delete this message?"
+msgstr "Sei certo di volere cancellare questo messaggio?"
+
+msgid "Are you sure to clear the log?"
+msgstr "Sei certo di volere svuotare il registro?"
+
+msgid "Re: "
+msgstr "Re: "
+
+msgid "Fwd: "
+msgstr "Fwd: "
+
+msgid "On"
+msgstr "Il"
+
+msgid "wrote:"
+msgstr "scrive:"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "From"
+msgstr "Da"
+
+msgid "Subject"
+msgstr "Oggetto"
+
+msgid "n/a"
+msgstr "n.d."
+
+msgid "Gone"
+msgstr "Andato"
+
+msgid "Sent to"
+msgstr "Invia a"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Not configured"
+msgstr "Non configurato"
+
+msgid "Not supported"
+msgstr "Non supportato"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Port"
+msgstr "Porta"
+
+msgid "is"
+msgstr "è"
+
+msgid "open"
+msgstr "aperto"
+
+msgid "closed"
+msgstr "chiuso"
+
+msgid "Only for"
+msgstr "Solo per"
+
+msgid "I don't want to support this plugin with the Sustainable Plugins Sponsorship Network:"
+msgstr "Non desidero sostenere questo plugin via Sustainable Plugins Sponsorship Network:"
+
+msgid "Separate multiple addresses by a comma"
+msgstr "separa gli indirizzi con una virgola"
+
+msgid "BCC self:"
+msgstr "BCC self:"
+
+msgid "Applies to all notifications"
+msgstr "applica a tutte le notifiche"
+
+msgid "Applies to e-mail notifications only"
+msgstr "applica alle sole notifiche email"
+
+msgid "Applies to comment notifications only"
+msgstr "applica alle sole notifiche commento"
+
+msgid "Characters"
+msgstr "caratteri"
+
+msgid "Caller ID"
+msgstr "ID chiamante"
+
+msgid "Callee"
+msgstr "ricevente"
+
+msgid "Time zone offset:"
+msgstr "Fuso orario:"
+
+msgid "API id:"
+msgstr "Id API:"
+
+msgid "or"
+msgstr "oppure"
+
+msgid "Comment notifications:"
+msgstr "Notifiche commento:"
+
+#~ msgid "CC:"
+#~ msgstr "CC:"
+
+#~ msgid "Show BCC"
+#~ msgstr "Mostra BCC"
+
+#~ msgid "BCC:"
+#~ msgstr "BCC:"
+
+#~ msgid "E-mail address missing"
+#~ msgstr "Manca indirizzo email"
+
+#~ msgid "Phone number missing"
+#~ msgstr "Manca numero di telefono"

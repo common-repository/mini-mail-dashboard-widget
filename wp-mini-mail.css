@@ -1,0 +1,270 @@
+/* Mini Mail */
+
+/* Options */
+
+#wpmm-sponsorship {
+	font-size: 9px;
+}
+
+#wpmm-resources {
+	float: right;
+	padding: 10px;
+	width: 180px;
+	margin-top: 30px;
+	border: 1px solid #CCCCCC;
+	background-color: #FFFEEB;
+}
+
+#wpmm-options {
+	float: left;
+}
+
+#wpmm-options table {
+}
+
+#wpmm-options th, #wpmm-options td {
+	padding: 1px;
+}
+
+#wpmm-options input[type="text"], #wpmm-options input[type="password"] {
+	border: 1px solid #DFDFDF;
+	-moz-box-sizing:border-box;
+}
+
+#wpmm-options .wpmm-input-small {
+	width: 40px;
+}
+
+#wpmm-options .wpmm-input-medium {
+	width: 200px;
+}
+
+#wpmm-options .wpmm-input-large {
+	width: 400px;
+}
+
+#wpmm-options .wpmm-input-numeric {
+	width: 40px;
+	text-align: right;
+}
+
+#wpmm-options textarea {
+	width: 400px;
+	height: 200px;
+}
+
+.wpmm-explanation {
+	width: 400px;
+}
+
+.wpmm-explain-below {
+	display: block;
+}
+
+/* General */
+
+#wpmm-container  {
+	font-size: 10px;
+}
+
+/* Message list */
+
+#wpmm-list {
+	max-height: 200px;
+	overflow: auto;
+	padding: 2px;
+}
+
+.wpmm-list-title {
+	font-weight: bold;
+}
+
+#wpmm-list table, #wpmm-attachments table {
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: solid;
+	border-color: #DFDFDF;
+	border-collapse: collapse;
+}
+
+#wpmm-list table {
+	width: 100%;
+}
+
+#wpmm-list td, #wpmm-attachments td {
+	border-width: 1px;
+	padding: 1px;
+	border-style: solid;
+	border-color: #DFDFDF;
+	font-size: 10px;
+}
+
+.wpmm-new-mail td {
+	font-weight: bold;
+}
+
+.wpmm-bulk td {
+	color: grey;
+}
+
+.wpmm-bulk td a {
+	color: grey;
+}
+
+.wpmm-bulk td a:hover {
+	color: #D54E21;
+}
+
+/* Message body */
+
+#wpmm-body {
+}
+
+#wpmm-body table {
+	border-collapse: collapse;
+}
+
+#wpmm-body td {
+	font-size: 10px;
+}
+
+#wpmm-body td span {
+	display: block;
+	padding: 1px 1px 1px 0;
+}
+
+.wpmm-body-title {
+	font-weight: bold;
+	margin: 0 5px 0 0;
+}
+
+.wpmm-file-link {
+	padding: 0 5px 0 0;
+}
+
+#wpmm-body-text {
+	border: 1px solid #DFDFDF;
+	padding: 1px;
+}
+
+/* http://www.longren.org/2006/09/27/wrapping-text-inside-pre-tags/ */
+#wpmm-body-text  pre {
+	overflow-x: auto; /* Use horizontal scroller if needed; for Firefox 2, not needed in Firefox 3 */
+	white-space: pre-wrap; /* css-3 */
+	white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	/* width: 99%; */
+	word-wrap: break-word; /* Internet Explorer 5.5+ */
+
+	max-height: 200px;
+	font-family: inherit;
+	font-size: 10px;
+}
+
+/* Compose form */
+
+#wpmm-compose {
+	font-size: 10px;
+	border: 1px solid #DFDFDF;
+	padding: 1px 5px;
+}
+
+.wpmm-form-title {
+	width: 60px;
+}
+
+#wpmm-compose table {
+	border-collapse: collapse;
+}
+
+#wpmm-compose td {
+	font-size: 10px;
+}
+
+#wpmm-compose form input[type="text"] {
+	width: 250px;
+	font-size: 10px;
+	margin: 1px 0 2px 0;
+	padding: 1px;
+}
+
+#wpmm-compose form input[name="wpmm-subj"] {
+	width: 300px;
+}
+
+#wpmm-compose form select {
+	font-size: 10px;
+	margin: 0;
+	padding: 1px;
+}
+
+#wpmm-compose form input[type="submit"] {
+	float: right;
+}
+
+#wpmm-compose form textarea {
+	font-size: 10px;
+	height: 200px;
+	width: 100%;
+	margin: 0;
+	padding: 1px;
+	line-height: 12px;
+}
+
+#wpmm-compose input[type="button"], #wpmm-compose input[type="submit"] {
+	height: 14px;
+	width: 75px;
+	margin: 2px;
+	padding: 0 0 4px;
+}
+
+/* Log */
+
+#wpmm-log {
+	font-size: 10px;
+}
+
+#wpmm-log-text {
+	max-height: 200px;
+	overflow: auto;
+	margin: 5px 0 0 0;
+	padding: 1px;
+	border: 1px solid #DFDFDF;
+	font-size: 9px;
+}
+
+#wpmm-log-text table {
+	border-collapse: collapse;
+}
+
+#wpmm-log-text td {
+	font-size: 9px;
+	margin: 0;
+	padding: 0;
+	line-height: 9px;
+}
+
+.wpmm-header-type {
+	font-weight: bold;
+}
+
+.wpmm-header-name {
+	font-style: italic;
+}
+
+.wpmm-header-value {
+}
+
+/* Actions */
+
+.wpmm-action {
+	margin: 5px 0;
+}
+
+/* Notices */
+
+.wpmm-notice {
+	color: red;
+	font-weight: bold;
+}

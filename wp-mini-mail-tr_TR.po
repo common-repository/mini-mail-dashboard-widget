@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Mail Dashboard Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-30 19:32+0200\n"
+"PO-Revision-Date: 2011-11-17 10:42+0100\n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: Weeebdesign <info@weeebhosting.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: wp-mini-mail-class.php:270
+#: wp-mini-mail-class.php:277
+#: wp-mini-mail-class.php:278
+#: wp-mini-mail-class.php:335
+#: wp-mini-mail-class.php:1615
+msgid "Mini Mail"
+msgstr "Mini E-Posta"
+
+#: wp-mini-mail-class.php:292
+msgid "Privacy in the Sustainable Plugins Sponsorship Network"
+msgstr "Privacy in the Sustainable Plugins Sponsorship Network"
+
+#: wp-mini-mail-class.php:300
+msgid "Resources"
+msgstr "Kaynaklar"
+
+#: wp-mini-mail-class.php:302
+msgid "Usage instructions"
+msgstr "Kullanım talimatları"
+
+#: wp-mini-mail-class.php:303
+msgid "Frequently asked questions"
+msgstr "Sık sorulan sorular"
+
+#: wp-mini-mail-class.php:304
+msgid "Support page"
+msgstr "Destek Sayfası"
+
+#: wp-mini-mail-class.php:305
+msgid "About the author"
+msgstr "Yazar hakkında"
+
+#: wp-mini-mail-class.php:410
+#: wp-mini-mail-class.php:413
+msgid "Settings updated"
+msgstr "Ayarları Güncellendi"
+
+#: wp-mini-mail-class.php:419
+msgid "General"
+msgstr "Genel"
+
+#: wp-mini-mail-class.php:423
+msgid "Time format:"
+msgstr "Tarih/Saat biçimi:"
+
+#: wp-mini-mail-class.php:426
+#: wp-mini-mail-class.php:816
+msgid "Details"
+msgstr "Detaylar"
+
+#: wp-mini-mail-class.php:430
+msgid "Max. cache age:"
+msgstr "Max. önbellek zamanı"
+
+#: wp-mini-mail-class.php:434
+#: wp-mini-mail-class.php:449
+msgid "Minutes"
+msgstr "Dakika"
+
+#: wp-mini-mail-class.php:438
+msgid "Display max.:"
+msgstr "Display max.:"
+
+#: wp-mini-mail-class.php:442
+msgid "Messages"
+msgstr "Mesaj"
+
+#: wp-mini-mail-class.php:446
+msgid "Mail check interval:"
+msgstr "E-Posta Kontrol Aralığı"
+
+#: wp-mini-mail-class.php:453
+msgid "HTTP time-out:"
+msgstr "HTTP zaman aşımı:"
+
+#: wp-mini-mail-class.php:456
+msgid "Seconds"
+msgstr "Saniye"
+
+#: wp-mini-mail-class.php:460
+msgid "Max. SMS length:"
+msgstr "Max. SMS uzunluğu:"
+
+#: wp-mini-mail-class.php:463
+msgid "Characters"
+msgstr "Karakter"
+
+#: wp-mini-mail-class.php:467
+msgid "WordPress address book:"
+msgstr "Üye Adres Defteri:"
+
+#: wp-mini-mail-class.php:473
+msgid "Required capability:"
+msgstr "Required capability:"
+
+#: wp-mini-mail-class.php:499
+msgid "Debug:"
+msgstr "Hata düzeltme:"
+
+#: wp-mini-mail-class.php:505
+msgid "Clean on deactivate:"
+msgstr "Temizle devredışı:"
+
+#: wp-mini-mail-class.php:511
+msgid "I have donated to this plugin:"
+msgstr "Bağış Eklentisi:"
+
+#: wp-mini-mail-class.php:520
+msgid "Mail"
+msgstr "E-Posta"
+
+#: wp-mini-mail-class.php:524
+msgid "Your name:"
+msgstr "Adınız:"
+
+#: wp-mini-mail-class.php:530
+msgid "Your e-mail:"
+msgstr "E-Posta Adresi:"
+
+#: wp-mini-mail-class.php:536
+msgid "Receive method:"
+msgstr "Alım Metodu:"
+
+#: wp-mini-mail-class.php:540
+#: wp-mini-mail-class.php:551
+msgid "Off"
+msgstr "Kapat"
+
+#: wp-mini-mail-class.php:547
+msgid "Send method:"
+msgstr "Gönderim Metodu:"
+
+#: wp-mini-mail-class.php:558
+msgid "Address book:"
+msgstr "Adres Defteri:"
+
+#: wp-mini-mail-class.php:565
+msgid "BCC self:"
+msgstr "BCC self:"
+
+#: wp-mini-mail-class.php:572
+msgid "POP3"
+msgstr "POP3"
+
+#: wp-mini-mail-class.php:576
+#: wp-mini-mail-class.php:618
+#: wp-mini-mail-class.php:665
+msgid "Host:"
+msgstr "Sunucu:"
+
+#: wp-mini-mail-class.php:579
+#: wp-mini-mail-class.php:668
+msgid "Frequenty used"
+msgstr "Frequenty used"
+
+#: wp-mini-mail-class.php:583
+#: wp-mini-mail-class.php:624
+#: wp-mini-mail-class.php:672
+msgid "Secure transfer:"
+msgstr "Güvenli Transfer:"
+
+#: wp-mini-mail-class.php:594
+#: wp-mini-mail-class.php:635
+#: wp-mini-mail-class.php:683
+msgid "Port:"
+msgstr "Port:"
+
+#: wp-mini-mail-class.php:597
+#: wp-mini-mail-class.php:638
+#: wp-mini-mail-class.php:686
+msgid "Test"
+msgstr "Test"
+
+#: wp-mini-mail-class.php:601
+#: wp-mini-mail-class.php:642
+#: wp-mini-mail-class.php:702
+#: wp-mini-mail-class.php:763
+msgid "User name:"
+msgstr "Kullanıcı Adı:"
+
+#: wp-mini-mail-class.php:607
+#: wp-mini-mail-class.php:648
+#: wp-mini-mail-class.php:708
+#: wp-mini-mail-class.php:769
+msgid "Password:"
+msgstr "Şifre:"
+
+#: wp-mini-mail-class.php:614
+msgid "IMAP"
+msgstr "IMAP"
+
+#: wp-mini-mail-class.php:654
+msgid "Folder:"
+msgstr "Klasör:"
+
+#: wp-mini-mail-class.php:661
+msgid "SMTP"
+msgstr "SMTP"
+
+#: wp-mini-mail-class.php:690
+msgid "Authentication:"
+msgstr "Kimlik Doğrulama:"
+
+#: wp-mini-mail-class.php:715
+#: wp-mini-mail-class.php:904
+msgid "SMS"
+msgstr "SMS"
+
+#: wp-mini-mail-class.php:718
+msgid "Use VoipBuster or one of its clones"
+msgstr "Use VoipBuster or one of its clones"
+
+#: wp-mini-mail-class.php:723
+msgid "Enable:"
+msgstr "Etkin:"
+
+#: wp-mini-mail-class.php:729
+msgid "Notifications:"
+msgstr "Bildirimler:"
+
+#: wp-mini-mail-class.php:735
+msgid "Separator:"
+msgstr "Ayırıcı:"
+
+#: wp-mini-mail-class.php:738
+msgid "Between from/subject/text; default is space"
+msgstr "Between from/subject/text; default is space"
+
+#: wp-mini-mail-class.php:742
+msgid "Shorten from:"
+msgstr "Shorten from:"
+
+#: wp-mini-mail-class.php:745
+#: wp-mini-mail-class.php:752
+#: wp-mini-mail-class.php:759
+msgid "-1 is off; empty is maximum"
+msgstr "-1 is off; empty is maximum"
+
+#: wp-mini-mail-class.php:749
+msgid "Shorten subject:"
+msgstr "Shorten subject:"
+
+#: wp-mini-mail-class.php:756
+msgid "Shorten text:"
+msgstr "Shorten text:"
+
+#: wp-mini-mail-class.php:775
+msgid "From number:"
+msgstr "From number:"
+
+#: wp-mini-mail-class.php:781
+msgid "Notifications to:"
+msgstr "Notifications to:"
+
+#: wp-mini-mail-class.php:787
+msgid "Url:"
+msgstr "Url:"
+
+#: wp-mini-mail-class.php:790
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+#: wp-mini-mail-class.php:794
+msgid "Max. SMS/day:"
+msgstr "Max. SMS/Gün:"
+
+#: wp-mini-mail-class.php:797
+msgid "0 is unlimited"
+msgstr "0 is unlimited"
+
+#: wp-mini-mail-class.php:801
+msgid "Phone book:"
+msgstr "Telefon Defteri"
+
+#: wp-mini-mail-class.php:810
+msgid "Schedule:"
+msgstr "Schedule:"
+
+#: wp-mini-mail-class.php:815
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "Works like a mechanical time switch; lines starting with + switches on, with - off."
+
+#: wp-mini-mail-class.php:821
+msgid "All passwords are stored and sent in plain text"
+msgstr "Tüm şifreler düz metin olarak kaydedilir."
+
+#: wp-mini-mail-class.php:824
+msgid "Save"
+msgstr "Kaydet"
+
+#: wp-mini-mail-class.php:897
+msgid "Check"
+msgstr "E-Posta Al"
+
+#: wp-mini-mail-class.php:900
+msgid "Compose"
+msgstr "Yeni İleti"
+
+#: wp-mini-mail-class.php:901
+msgid "Announce"
+msgstr "Duyuru"
+
+#: wp-mini-mail-class.php:906
+msgid "Log"
+msgstr "Log"
+
+#: wp-mini-mail-class.php:907
+msgid "Clear"
+msgstr "Temizle"
+
+#: wp-mini-mail-class.php:909
+msgid "Cron"
+msgstr "Cron"
+
+#: wp-mini-mail-class.php:912
+msgid "Donate"
+msgstr "Bağış"
+
+#: wp-mini-mail-class.php:918
+#: wp-mini-mail-class.php:1197
+#: wp-mini-mail-class.php:1449
+msgid "Date:"
+msgstr "Tarih:"
+
+#: wp-mini-mail-class.php:920
+#: wp-mini-mail-class.php:1198
+#: wp-mini-mail-class.php:1446
+msgid "From:"
+msgstr "Gönderen:"
+
+#: wp-mini-mail-class.php:922
+#: wp-mini-mail-class.php:967
+#: wp-mini-mail-class.php:1199
+#: wp-mini-mail-class.php:1447
+msgid "Subject:"
+msgstr "Konu:"
+
+#: wp-mini-mail-class.php:924
+#: wp-mini-mail-class.php:978
+msgid "Attachments:"
+msgstr "Dosya Ekle"
+
+#: wp-mini-mail-class.php:930
+msgid "Reply"
+msgstr "Göndereni yanıtla"
+
+#: wp-mini-mail-class.php:931
+msgid "Forward"
+msgstr "İlet"
+
+#: wp-mini-mail-class.php:933
+msgid "HTML"
+msgstr "HTML"
+
+#: wp-mini-mail-class.php:934
+#: wp-mini-mail-class.php:1004
+msgid "Close"
+msgstr "Kapat"
+
+#: wp-mini-mail-class.php:941
+#: wp-mini-mail-class.php:1448
+msgid "To:"
+msgstr "Alıcı:"
+
+#: wp-mini-mail-class.php:949
+msgid "CC:"
+msgstr "CC:"
+
+#: wp-mini-mail-class.php:955
+msgid "Show BCC"
+msgstr "BCC"
+
+#: wp-mini-mail-class.php:959
+msgid "BCC:"
+msgstr "BCC:"
+
+#: wp-mini-mail-class.php:970
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: wp-mini-mail-class.php:979
+#: wp-mini-mail-class.php:1599
+msgid "Select"
+msgstr "Gözat"
+
+#: wp-mini-mail-class.php:995
+msgid "Send"
+msgstr "Gönder"
+
+#: wp-mini-mail-class.php:996
+msgid "Cancel"
+msgstr "Vazgeç"
+
+#: wp-mini-mail-class.php:1196
+msgid "Are you sure to delete this message?"
+msgstr "Bu mesajı silmek istediğinizden emin misiniz?"
+
+#: wp-mini-mail-class.php:1393
+msgid "Are you sure to clear the log?"
+msgstr "Günlüğünü temizlemek istediğinizden emin misiniz?"
+
+#: wp-mini-mail-class.php:1435
+msgid "Re: "
+msgstr "Re: "
+
+#: wp-mini-mail-class.php:1438
+msgid "Fwd: "
+msgstr "Fwd: "
+
+#: wp-mini-mail-class.php:1444
+msgid "On"
+msgstr "Hazır"
+
+#: wp-mini-mail-class.php:1445
+msgid "wrote:"
+msgstr "wrote:"
+
+#: wp-mini-mail-class.php:1866
+msgid "Date"
+msgstr "Tarih"
+
+#: wp-mini-mail-class.php:1867
+msgid "From"
+msgstr "Kimden"
+
+#: wp-mini-mail-class.php:1868
+msgid "Subject"
+msgstr "Konu"
+
+#: wp-mini-mail-class.php:1925
+#: wp-mini-mail-class.php:2050
+#: wp-mini-mail-class.php:2083
+msgid "n/a"
+msgstr "Yok"
+
+#: wp-mini-mail-class.php:1927
+#: wp-mini-mail-class.php:1991
+#: wp-mini-mail-class.php:2052
+#: wp-mini-mail-class.php:2087
+msgid "Gone"
+msgstr "Kayıp"
+
+#: wp-mini-mail-class.php:1953
+msgid "E-mail address missing"
+msgstr "E-Posta adresi eksik"
+
+#: wp-mini-mail-class.php:1958
+#: wp-mini-mail-class.php:1977
+msgid "Sent to"
+msgstr "Gönderen"
+
+#: wp-mini-mail-class.php:1973
+msgid "Phone number missing"
+msgstr "Telefon numarası eksik"
+
+#: wp-mini-mail-class.php:1991
+msgid "OK"
+msgstr "Tamam"
+
+#: wp-mini-mail-class.php:2115
+msgid "Port"
+msgstr "Port"
+
+#: wp-mini-mail-class.php:2116
+#: wp-mini-mail-class.php:2118
+#: wp-mini-mail-class.php:2120
+msgid "is"
+msgstr "is"
+
+#: wp-mini-mail-class.php:2117
+#: wp-mini-mail-class.php:2119
+#: wp-mini-mail-class.php:2121
+msgid "open"
+msgstr "Açık"
+
+#: wp-mini-mail-class.php:2117
+#: wp-mini-mail-class.php:2119
+#: wp-mini-mail-class.php:2121
+msgid "closed"
+msgstr "Kapalı"
+
+#: wp-mini-mail-class.php:2127
+msgid "Not supported"
+msgstr "Desteklenmiyor"
+
+#: wp-mini-mail-class.php:2465
+msgid "Not configured"
+msgstr "Yapılandırılmamış"
+

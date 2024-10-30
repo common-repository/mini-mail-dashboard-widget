@@ -1,0 +1,365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mini-mail-dashboard-widget\n"
+"POT-Creation-Date: 2009-08-28 14:48+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+msgid "Mini Mail"
+msgstr "Mini Mail"
+
+msgid "Resources"
+msgstr "Bronnen"
+
+msgid "Usage instructions"
+msgstr "Gebruiksinstructies"
+
+msgid "Frequently asked questions"
+msgstr "Veel gestelde vragen"
+
+msgid "Support page"
+msgstr "Ondersteuningspagina"
+
+msgid "About the author"
+msgstr "Over de auteur"
+
+msgid "Settings updated"
+msgstr "Instellingen bijgewerkt"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Time format:"
+msgstr "Tijd formaat:"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Max. cache age:"
+msgstr "Max. cache leeftijd:"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "Display max.:"
+msgstr "Toon max.:"
+
+msgid "Messages"
+msgstr "Berichten"
+
+msgid "Mail check interval:"
+msgstr "Mail controle interval:"
+
+msgid "WordPress address book:"
+msgstr "WordPress adresboek:"
+
+msgid "HTTP time-out:"
+msgstr "HTTP time-out:"
+
+msgid "Seconds"
+msgstr "Seconden"
+
+msgid "Max. SMS length:"
+msgstr "Max. SMS lengte:"
+
+msgid "Characters"
+msgstr "Karakters"
+
+msgid "Required capability:"
+msgstr "Vereiste capability:"
+
+msgid "Debug:"
+msgstr "Debug:"
+
+msgid "Clean on deactivate:"
+msgstr "Opschonen bij deactivatie:"
+
+msgid "I have donated to this plugin:"
+msgstr "Ik heb gedoneerd:"
+
+msgid "Mail"
+msgstr "Mail"
+
+msgid "Your name:"
+msgstr "Uw naam:"
+
+msgid "Your e-mail:"
+msgstr "Uw e-mail:"
+
+msgid "Receive method:"
+msgstr "Ontvangst methode:"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Send method:"
+msgstr "Zend methode:"
+
+msgid "Address book:"
+msgstr "Adresboek:"
+
+msgid "POP3"
+msgstr "POP3"
+
+msgid "Host:"
+msgstr "Host:"
+
+msgid "Frequenty used"
+msgstr "Vaak gebruikt"
+
+msgid "Secure transfer:"
+msgstr "Veilig transport:"
+
+msgid "Port:"
+msgstr "Poort:"
+
+msgid "User name:"
+msgstr "Gebruikersnaam:"
+
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Folder:"
+msgstr "Map:"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Authentication:"
+msgstr "Authenticatie"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Use VoipBuster or one of its clones"
+msgstr "Gebruik VoipBuster of een kloon"
+
+msgid "Enable:"
+msgstr "Geactiveerd:"
+
+msgid "Notifications:"
+msgstr "Notificaties:"
+
+msgid "Separator:"
+msgstr "Scheidingsteken:"
+
+msgid "Between from/subject/text; default is space"
+msgstr "Tussen van/onderwerp/tekst; standaard spatie"
+
+msgid "Shorten from:"
+msgstr "Inkorten van:"
+
+msgid "Shorten subject:"
+msgstr "Inkorten onderwerp:"
+
+msgid "Shorten text:"
+msgstr "Inkorten tekst:"
+
+msgid "-1 is off; empty is maximum"
+msgstr "-1 is uit; leeg is maimum"
+
+msgid "From number:"
+msgstr "Van nummer:"
+
+msgid "Notifications to:"
+msgstr "Notificaties naar:"
+
+msgid "Max. SMS/day:"
+msgstr "Max. SMS/dag:"
+
+msgid "0 is unlimited"
+msgstr "0 is onbeperkt"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+msgid "Phone book:"
+msgstr "Telefoonboek:"
+
+msgid "Schedule:"
+msgstr "Schema:"
+
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "Werkt als een mechanische schakelklok; regels die starten met + schakelen aan, met - uit"
+
+msgid "All passwords are stored and sent in plain text"
+msgstr "Alle wachtwoorden worden bewaard en gestuurd als platte tekst"
+
+msgid "Save"
+msgstr "Bewaar"
+
+msgid "Check"
+msgstr "Controleer"
+
+msgid "Compose"
+msgstr "Samenstellen"
+
+msgid "Announce"
+msgstr "Aankondigen"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Clear"
+msgstr "Opschonen"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Donate"
+msgstr "Doneer"
+
+msgid "Date:"
+msgstr "Datum:"
+
+msgid "From:"
+msgstr "Van:"
+
+msgid "Subject:"
+msgstr "Onderwerp:"
+
+msgid "Attachments:"
+msgstr "Bijlagen:"
+
+msgid "Reply"
+msgstr "Beantwoorden"
+
+msgid "Forward"
+msgstr "Doorsturen"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Close"
+msgstr "Sluiten"
+
+msgid "To:"
+msgstr "Aan:"
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "Phone:"
+msgstr "Nummer:"
+
+msgid "Send"
+msgstr "Stuur"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Are you sure to delete this message?"
+msgstr "Weet u zeker dat u dit bericht wilt verwijderen?"
+
+msgid "Are you sure to clear the log?"
+msgstr "Weet u zeker dat u de log wilt opschonen?"
+
+msgid "Re: "
+msgstr "Re: "
+
+msgid "Fwd: "
+msgstr "Fwd: "
+
+msgid "On"
+msgstr "Op "
+
+msgid "wrote:"
+msgstr "schreef:"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "From"
+msgstr "Van"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "Gone"
+msgstr "Verdwenen"
+
+msgid "Sent to"
+msgstr "Gestuurd naar"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Not configured"
+msgstr "Niet ingesteld"
+
+msgid "Not supported"
+msgstr "Niet ondersteund"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Port"
+msgstr "Poort"
+
+msgid "is"
+msgstr "is"
+
+msgid "open"
+msgstr "open"
+
+msgid "closed"
+msgstr "gesloten"
+
+msgid "Only for"
+msgstr "Alleen voor"
+
+msgid "I don't want to support this plugin with the Sustainable Plugins Sponsorship Network:"
+msgstr "Ik wil deze plugin niet ondersteunen met het Sustainable Plugins Sponsorship Network:"
+
+msgid "Separate multiple addresses by a comma"
+msgstr "Scheidt meerdere adressen met een komma"
+
+msgid "BCC self:"
+msgstr "BCC zelf:"
+
+msgid "Applies to all notifications"
+msgstr "Geldt voor all notificaties"
+
+msgid "Applies to e-mail notifications only"
+msgstr "Geldt alleen voor e-mail notificaties"
+
+msgid "Applies to comment notifications only"
+msgstr "Geldt alleen voor commentaar notificaties"
+
+msgid "Caller ID"
+msgstr "Beller"
+
+msgid "Callee"
+msgstr "Gebelde"
+
+msgid "Time zone offset:"
+msgstr "Tijd zone veschil"
+
+msgid "API id:"
+msgstr "API id:"
+
+msgid "or"
+msgstr "of"
+
+msgid "Comment notifications:"
+msgstr "Commentaar notificaties:"
+

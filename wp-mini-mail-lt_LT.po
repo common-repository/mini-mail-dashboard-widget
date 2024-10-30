@@ -1,0 +1,541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Mail Dashboard Widget v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-05-02 17:53+0100\n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Latvian\n"
+"X-Poedit-Country: LITHUANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:241
+#: wp-mini-mail-class.php:248
+#: wp-mini-mail-class.php:249
+#: wp-mini-mail-class.php:286
+#: wp-mini-mail-class.php:1320
+msgid "Mini Mail"
+msgstr "Mini Mail"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:258
+msgid "Resources"
+msgstr "Ištekliai"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:260
+msgid "Usage instructions"
+msgstr "Vartojimo instrukcijos"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:261
+msgid "Frequently asked questions"
+msgstr "Dažniausiai užduodami klausimai"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:262
+msgid "Support page"
+msgstr "Pagalbos puslapis"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:263
+msgid "About the author"
+msgstr "Apie autorių"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:357
+#: wp-mini-mail-class.php:360
+msgid "Settings updated"
+msgstr "Nuostatos atnaujintos"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:366
+msgid "General"
+msgstr "Bendrieji(-osios)"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:370
+msgid "Time format:"
+msgstr "Laiko formatas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:373
+#: wp-mini-mail-class.php:714
+msgid "Details"
+msgstr "Informacija"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:377
+msgid "Max. cache age:"
+msgstr "Maksimalus spartinančiosios atmintinės amžius:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:381
+#: wp-mini-mail-class.php:388
+msgid "Minutes"
+msgstr "Minučių"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:385
+msgid "Mail check interval:"
+msgstr "Elektroninio pašto tikrinimo intervalas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:392
+msgid "HTTP time-out:"
+msgstr "HTTP skirtojo laiko pabaiga:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:395
+msgid "Seconds"
+msgstr "Sekundžių"
+
+#  wp-mini-mail
+#: wp-mini-mail-class.php:399
+msgid "Max. SMS length:"
+msgstr "Maksimalus SMS ilgis:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:402
+msgid "Characters"
+msgstr "Simbolių"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:406
+msgid "WordPress address book:"
+msgstr "WordPress adresų knyga:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:412
+msgid "Debug:"
+msgstr "Derinimas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:418
+msgid "Clean on deactivate:"
+msgstr "Išvalyti deaktyvavimo metu:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:427
+msgid "Mail"
+msgstr "Paštas"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:431
+msgid "Your name:"
+msgstr "Jūsų vardas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:437
+msgid "Your e-mail:"
+msgstr "Jūsų elektroninio pašto adresas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:443
+msgid "Receive method:"
+msgstr "Priėmimo metodas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:447
+#: wp-mini-mail-class.php:458
+msgid "Off"
+msgstr "Išjungti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:454
+msgid "Send method:"
+msgstr "Siuntimo metodas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:465
+msgid "Address book:"
+msgstr "Adresų knyga::"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:473
+msgid "POP3"
+msgstr "POP3"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:477
+#: wp-mini-mail-class.php:518
+#: wp-mini-mail-class.php:564
+msgid "Host:"
+msgstr "Serveris:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:480
+#: wp-mini-mail-class.php:567
+msgid "Frequenty used"
+msgstr "Dažniausiai naudojami"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:484
+#: wp-mini-mail-class.php:524
+#: wp-mini-mail-class.php:571
+msgid "Secure transfer:"
+msgstr "Saugus perdavimas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:495
+#: wp-mini-mail-class.php:535
+#: wp-mini-mail-class.php:582
+msgid "Port:"
+msgstr "Prievadas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:501
+#: wp-mini-mail-class.php:541
+#: wp-mini-mail-class.php:600
+#: wp-mini-mail-class.php:661
+msgid "User name:"
+msgstr "Vartotojo vardas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:507
+#: wp-mini-mail-class.php:547
+#: wp-mini-mail-class.php:606
+#: wp-mini-mail-class.php:667
+msgid "Password:"
+msgstr "Slaptažodis:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:514
+msgid "IMAP"
+msgstr "IMAP"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:553
+msgid "Folder:"
+msgstr "Aplankas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:560
+msgid "SMTP"
+msgstr "SMTP"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:588
+msgid "Authentication:"
+msgstr "Atpažinimas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:613
+#: wp-mini-mail-class.php:777
+msgid "SMS"
+msgstr "SMS"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:616
+msgid "Use VoipBuster or one of its clones"
+msgstr "Naudoti VoipBuster arba vieną iš jo klonų"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:621
+msgid "Enable:"
+msgstr "Suaktyvinti:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:627
+msgid "Notifications:"
+msgstr "Įspėjimai:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:633
+msgid "Separator:"
+msgstr "Skirtukas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:636
+msgid "Between from/subject/text; default is space"
+msgstr "Tarp nuo/tema/tekstas; numatytas yra tarpas"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:640
+msgid "Shorten from:"
+msgstr "Sutrumpinta forma:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:643
+#: wp-mini-mail-class.php:650
+#: wp-mini-mail-class.php:657
+msgid "-1 is off; empty is maximum"
+msgstr "-1 reiškia išjungtą; tuščias yra didžiausias"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:647
+msgid "Shorten subject:"
+msgstr "Sutrumpinta tema:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:654
+msgid "Shorten text:"
+msgstr "Sutrumpintas tekstas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:673
+msgid "From number:"
+msgstr "Nuo skaičiaus:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:679
+msgid "Notifications to:"
+msgstr "Pranešimas į:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:685
+msgid "Url:"
+msgstr "Universalioji nuoroda:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:688
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:692
+msgid "Max. SMS/day:"
+msgstr "Daugiausiai SMS per dieną:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:695
+msgid "0 is unlimited"
+msgstr "0 - neribojama"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:699
+msgid "Phone book:"
+msgstr "Telefono knyga:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:708
+msgid "Schedule:"
+msgstr "Planas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:713
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "Veikia kaip mechaninis laiko perjungėjas; eilutės, prasidedančios + įsijungia, su - išsijungia."
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:719
+msgid "All passwords are stored and sent in plain text"
+msgstr "Visi slaptažodžiai yra saugomi ir siunčiami kaip grynasis tekstas"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:722
+msgid "Save"
+msgstr "Įrašyti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:770
+msgid "Check"
+msgstr "Tikrinti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:773
+msgid "Compose"
+msgstr "Rašyti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:774
+msgid "Announce"
+msgstr "Pranešti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:779
+msgid "Log"
+msgstr "Žurnalas"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:780
+msgid "Clear"
+msgstr "Išvalyti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:782
+msgid "Cron"
+msgstr "Cron"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:784
+msgid "Donate"
+msgstr "Paaukoti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:789
+#: wp-mini-mail-class.php:955
+#: wp-mini-mail-class.php:1169
+msgid "Date:"
+msgstr "Data:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:791
+#: wp-mini-mail-class.php:956
+#: wp-mini-mail-class.php:1166
+msgid "From:"
+msgstr "Nuo:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:793
+#: wp-mini-mail-class.php:826
+#: wp-mini-mail-class.php:957
+#: wp-mini-mail-class.php:1167
+msgid "Subject:"
+msgstr "Tema:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:795
+msgid "Attachments:"
+msgstr "Priedai:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:801
+msgid "Reply"
+msgstr "Atsakyti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:802
+msgid "Forward"
+msgstr "Persiųsti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:804
+msgid "HTML"
+msgstr "HTML"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:805
+#: wp-mini-mail-class.php:846
+msgid "Close"
+msgstr "Uždaryti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:812
+#: wp-mini-mail-class.php:1168
+msgid "To:"
+msgstr "Į:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:819
+msgid "CC:"
+msgstr "CC:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:828
+msgid "Phone:"
+msgstr "Telefonas:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:837
+msgid "Send"
+msgstr "Siųsti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:838
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:954
+msgid "Are you sure to delete this message?"
+msgstr "Ar tikrai norite ištrinti šią žinutę?"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1114
+msgid "Are you sure to clear the log?"
+msgstr "Ar tikrai norite išvalyti žurnalą?"
+
+#  wp-mini-mail
+#: wp-mini-mail-class.php:1155
+#, fuzzy
+msgid "Re: "
+msgstr "Re:"
+
+#  wp-mini-mail
+#: wp-mini-mail-class.php:1158
+#, fuzzy
+msgid "Fwd: "
+msgstr "Fwd:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1164
+msgid "On"
+msgstr "Prie"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1165
+msgid "wrote:"
+msgstr "rašė:"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1304
+msgid "Select"
+msgstr "Pasirinkti"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1559
+msgid "Date"
+msgstr "Data"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1560
+msgid "From"
+msgstr "Nuo"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1561
+msgid "Subject"
+msgstr "Tema"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1618
+#: wp-mini-mail-class.php:1741
+#: wp-mini-mail-class.php:1774
+msgid "n/a"
+msgstr "nepasiekiama"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1620
+#: wp-mini-mail-class.php:1682
+#: wp-mini-mail-class.php:1743
+#: wp-mini-mail-class.php:1778
+msgid "Gone"
+msgstr "Dingo"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1644
+msgid "E-mail address missing"
+msgstr "Trūksta elektroninio pašto adreso"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1649
+#: wp-mini-mail-class.php:1668
+msgid "Sent to"
+msgstr "Siųsti į"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1664
+msgid "Phone number missing"
+msgstr "Trūksta telefono numerio"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:1682
+msgid "OK"
+msgstr "OK"
+
+#@ wp-mini-mail
+#: wp-mini-mail-class.php:2119
+msgid "Not configured"
+msgstr "Nesukonfigūruota"
+

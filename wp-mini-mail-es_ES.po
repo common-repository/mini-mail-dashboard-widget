@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mini-mail-dashboard-widget\n"
+"POT-Creation-Date: 2009-08-28 14:48+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcel Bokhorst\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Espanol\n"
+"X-Poedit-Country: SPAIN\n"
+
+msgid "Mini Mail"
+msgstr "Mini Mail"
+
+msgid "Resources"
+msgstr "Recursos"
+
+msgid "Usage instructions"
+msgstr "Instrucciones de uso"
+
+msgid "Frequently asked questions"
+msgstr "Preguntas Mas frecuentes"
+
+msgid "Support page"
+msgstr "Pagina de soporte"
+
+msgid "About the author"
+msgstr "Sobre el Autor"
+
+msgid "Settings updated"
+msgstr "Actualizar Ajustes"
+
+msgid "General"
+msgstr "General"
+
+msgid "Time format:"
+msgstr "Formato de hora:"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "Max. cache age:"
+msgstr "Max. tiempo cache:"
+
+msgid "Minutes"
+msgstr "Minutos"
+
+msgid "Display max.:"
+msgstr "Mostrar max.:"
+
+msgid "Messages"
+msgstr "Mensajes"
+
+msgid "Mail check interval:"
+msgstr "Intervalo busqueda mail:"
+
+msgid "WordPress address book:"
+msgstr "WordPress libreta de direcciones:"
+
+msgid "HTTP time-out:"
+msgstr "HTTP tiempo de espera:"
+
+msgid "Seconds"
+msgstr "Segundos"
+
+msgid "Max. SMS length:"
+msgstr "Max. SMS largo:"
+
+msgid "Characters"
+msgstr "caracteres"
+
+msgid "Debug:"
+msgstr "Depurar:"
+
+msgid "Clean on deactivate:"
+msgstr "Despejar al desactivar:"
+
+msgid "I have donated to this plugin:"
+msgstr "Yo he aportado a este plugin:"
+
+msgid "Mail"
+msgstr "Correo"
+
+msgid "Your name:"
+msgstr "Su Nombre:"
+
+msgid "Your e-mail:"
+msgstr "Su e-mail:"
+
+msgid "Receive method:"
+msgstr "Metodo de recibida :"
+
+msgid "Off"
+msgstr "Apagado"
+
+msgid "Send method:"
+msgstr "Metodo de envio :"
+
+msgid "Address book:"
+msgstr "Libreta de direcciones:"
+
+msgid "POP3"
+msgstr "POP3"
+
+msgid "Host:"
+msgstr "Host:"
+
+msgid "Frequenty used"
+msgstr "Frecuentes utilizados"
+
+msgid "Secure transfer:"
+msgstr "Transferencia segura:"
+
+msgid "Port:"
+msgstr "Puerto:"
+
+msgid "User name:"
+msgstr "Nombre de usuario:"
+
+msgid "Password:"
+msgstr "Contrasena:"
+
+msgid "IMAP"
+msgstr "IMAP"
+
+msgid "Folder:"
+msgstr "Carpeta:"
+
+msgid "SMTP"
+msgstr "SMTP"
+
+msgid "Authentication:"
+msgstr "Autenticacion"
+
+msgid "SMS"
+msgstr "SMS"
+
+msgid "Use VoipBuster or one of its clones"
+msgstr "Usar VoipBuster o uno de sus clones"
+
+msgid "Enable:"
+msgstr "Activar:"
+
+msgid "Notifications:"
+msgstr "Notificaciones:"
+
+msgid "Separator:"
+msgstr "Separador:"
+
+msgid "Between from/subject/text; default is space"
+msgstr "Entre de/tema/texto; estandard es espacio"
+
+msgid "Shorten from:"
+msgstr "de Corto:"
+
+msgid "Shorten subject:"
+msgstr "Tema corto:"
+
+msgid "Shorten text:"
+msgstr "Texto corto:"
+
+msgid "-1 is off; empty is maximum"
+msgstr "-1 es apagado; vacio es maximo"
+
+msgid "From number:"
+msgstr "De numero:"
+
+msgid "Notifications to:"
+msgstr "Notificar a:"
+
+msgid "Max. SMS/day:"
+msgstr "Max. SMS/dia:"
+
+msgid "0 is unlimited"
+msgstr "0 is ilimitado"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "VoipBuster"
+msgstr "VoipBuster"
+
+msgid "Phone book:"
+msgstr "Libreta de telefonos:"
+
+msgid "Schedule:"
+msgstr "Agenda:"
+
+msgid "Works like a mechanical time switch; lines starting with + switches on, with - off."
+msgstr "Funciona como un inrerruptor de tiempo mecanico lineas comienzan con + prendido, con - apagado"
+
+msgid "All passwords are stored and sent in plain text"
+msgstr "Todos las contrasenas son guardadas como texto plano"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Check"
+msgstr "Revisar"
+
+msgid "Compose"
+msgstr "Componer"
+
+msgid "Announce"
+msgstr "Anunciar"
+
+msgid "Log"
+msgstr "Estado transferencia"
+
+msgid "Clear"
+msgstr "Despejar"
+
+msgid "Cron"
+msgstr "Cron"
+
+msgid "Donate"
+msgstr "Donar"
+
+msgid "Date:"
+msgstr "Fecha:"
+
+msgid "From:"
+msgstr "Para:"
+
+msgid "Subject:"
+msgstr "Tema:"
+
+msgid "Attachments:"
+msgstr "Adjuntar:"
+
+msgid "Reply"
+msgstr "Responder"
+
+msgid "Forward"
+msgstr "Re-enviar"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "To:"
+msgstr "Para:"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "Phone:"
+msgstr "Telefono:"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Are you sure to delete this message?"
+msgstr "Esta seguro que desea borrar este mensaje?"
+
+msgid "Are you sure to clear the log?"
+msgstr "Esta seguro que desea despejar la transferencia?"
+
+msgid "Re: "
+msgstr "Re: "
+
+msgid "Fwd: "
+msgstr "Re-en: "
+
+msgid "On"
+msgstr "Activado "
+
+msgid "wrote:"
+msgstr "Escribio:"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "From"
+msgstr "De"
+
+msgid "Subject"
+msgstr "Tema"
+
+msgid "n/a"
+msgstr "n/a"
+
+msgid "Gone"
+msgstr "Enviado"
+
+msgid "Sent to"
+msgstr "Enviado a"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Not configured"
+msgstr "No configurado"
+
+msgid "Not supported"
+msgstr "No soportado"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "Port"
+msgstr "Puerto"
+
+msgid "is"
+msgstr "es"
+
+msgid "open"
+msgstr "Abierto"
+
+msgid "closed"
+msgstr "Cerrado"
+
